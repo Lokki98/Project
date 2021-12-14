@@ -17,7 +17,7 @@ library(knitr)
 ```
 [~ 200 words]
 
-Narrative: Clear narrative description of the data sources and methods. Includes data from at least two sources that were integrated / merged in R.
+Narrative: Clear narrative description of the data sources and methods. Includes data from at least two sources that were integrated / merged
 
 Code: The code associated with the project is well organized and easy to follow. Demonstrates mastery of R graphics and functions.
 
